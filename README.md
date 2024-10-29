@@ -59,6 +59,12 @@ Insights into which chemical features influence wine quality.
 Recommendations for potential quality improvements in wine production based on findings.
 
 
+*Technology Stack*
+
+Python Libraries: Pandas, NumPy, Matplotlib, Scikit
+Tools: Jupyter Notebook
+
+
 *Project Results*
 
 
