@@ -62,6 +62,7 @@ Recommendations for potential quality improvements in wine production based on f
 *Technology Stack*
 
 Python Libraries: Pandas, NumPy, Matplotlib, Scikit
+
 Tools: Jupyter Notebook
 
 
