@@ -35,8 +35,6 @@ Sulphates
 
 Alcohol
 
-Quality (score between 0 and 10)
-
 
 *Project Workflow*
 
